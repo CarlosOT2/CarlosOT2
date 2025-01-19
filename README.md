@@ -6,12 +6,12 @@ I am a Developer who seeks to learn and gain knowledge about Web Programming. My
   </span>
   <br/>
 <h3> Technical Experience </h3>
-<span> Front-End </span>
+<p> Front-End </p>
   <pre>
 - TypeScript/JS
 - HTML
 - CSS/SCSS </pre>
-<span> Back-End </span>
+<p> Back-End </p>
   <pre>
 - Nodejs,
 - MySQL/MariaDB,
