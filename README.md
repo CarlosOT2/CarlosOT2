@@ -15,7 +15,9 @@ I am a Developer who seeks to learn and gain knowledge about Web Programming. My
   <pre>
 - Nodejs
 - C#
-- SQL
+- MySQL
+- MariaDB
+- PostgreSQL
 - Data Security
 - Express 
 - Knex </pre>
