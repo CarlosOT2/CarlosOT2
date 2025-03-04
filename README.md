@@ -8,7 +8,7 @@ I am a Developer who seeks to learn and gain knowledge about Web Programming. My
 <h3> Technical skills </h3>
 <p> Front-End </p>
   <pre>
-- TypeScript/JS
+- TypeScript/JavaScript
 - HTML
 - CSS/SCSS </pre>
 <p> Back-End </p>
