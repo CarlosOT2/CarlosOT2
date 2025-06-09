@@ -13,6 +13,7 @@ I am a Developer who seeks to learn and gain knowledge about Web Programming. My
 - CSS/SCSS </pre>
 <p> Back-End </p>
   <pre>
+- Lua
 - Nodejs
 - C#
 - MySQL/MariaDB/PostgreSQL
