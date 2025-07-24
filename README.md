@@ -10,6 +10,8 @@ I am a Developer who seeks to learn and gain knowledge about Web Programming. My
   <pre>
 - TypeScript/JavaScript
 - HTML
+- React
+- Vite
 - CSS/SCSS </pre>
 <p> Back-End </p>
   <pre>
