@@ -19,6 +19,8 @@ I am a Developer who seeks to learn and gain knowledge about Web Programming. My
 - MySQL/MariaDB/PostgreSQL
 - Data Security
 - Express 
+- ASP.NET
+- Entity Framework
 - Knex </pre>
 <p> General </p>
   <pre>
