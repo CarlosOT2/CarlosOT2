@@ -21,12 +21,12 @@ I am a Developer who seeks to learn and gain knowledge about Web Programming. My
 - MySQL/MariaDB/PostgreSQL
 - Data Security
 - Express 
-- ASP.NET
-- Knex </pre>
+- ASP.NET </pre>
 <p> General </p>
   <pre>
 - Git
-- VS Code 
+- VS Code
+- VS 2022
 - Intermediate English
 - Windows Management/Services </pre>
   <h3>My Status</h3>
