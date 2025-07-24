@@ -9,10 +9,10 @@ I am a Developer who seeks to learn and gain knowledge about Web Programming. My
 <p> Front-End </p>
   <pre>
 - TypeScript/JavaScript
+- CSS/SCSS
 - HTML
 - React
-- Vite
-- CSS/SCSS </pre>
+- Vite </pre>
 <p> Back-End </p>
   <pre>
 - Lua
