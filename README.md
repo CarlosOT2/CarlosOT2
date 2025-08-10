@@ -1,5 +1,5 @@
 <div>
-<h1> I'm Carlos A Fullstack Web developer </h1>
+<h1> I'm carlos a Fullstack Web Developer </h1>
 <h3> About Me </h3>
   <span>
 I am a Developer who seeks to learn and gain knowledge about Web Programming. My knowledge of Web Programming goes from the Client (the area that the user will access) to the Server (where the user's requests will be processed). I dedicate my time daily to creating programming projects, and websites.
