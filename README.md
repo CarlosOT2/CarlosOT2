@@ -2,7 +2,9 @@
 <h1> 👋 Hello, I'm Carlos a Fullstack Web Developer </h1>
 
 <h3> About me </h3>
-i've two years of programming experience and am currently developing a website for manga and comics while studying C#
+⏰ i have 2 years of programming experience 
+<br/>
+💻 im developing a website for manga and comics while studying C#
 <h3> Technical skills </h3>
 <p> 🎨 Front-End </p>
   <pre>
