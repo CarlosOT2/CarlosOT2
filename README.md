@@ -1,19 +1,15 @@
 <div>
-<h1> I'm Carlos a Fullstack Web Developer </h1>
-<h3> About Me </h3>
-  <span>
-My skills goes from the Client (the area that the user will access) to the Server (where the user's requests will be processed). i dedicate my time to create systems, and websites.
-  </span>
-  <br/>
+<h1> 👋 Hello, I'm Carlos a Fullstack Web Developer </h1>
+
 <h3> Technical skills </h3>
-<p> Front-End </p>
+<p> 🎨 Front-End </p>
   <pre>
 - TypeScript/JavaScript
 - CSS/SCSS
 - HTML
 - React
 - Vite </pre>
-<p> Back-End </p>
+<p> 🔧 Back-End </p>
   <pre>
 - Lua
 - Nodejs
@@ -22,7 +18,7 @@ My skills goes from the Client (the area that the user will access) to the Serve
 - Data Security
 - Express 
 - ASP.NET </pre>
-<p> General </p>
+<p> 🌐 General </p>
   <pre>
 - Git
 - VS Code
